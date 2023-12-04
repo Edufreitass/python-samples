@@ -1,7 +1,7 @@
 class Utilidades:
     """
-    @staticmethod + @classmethod:
-    Combinação de métodos de classe e métodos estáticos.
+    @classmethod:
+    Usado para declarar métodos de classe, que recebem a classe como o primeiro argumento, em vez da instância.
     """
 
     @classmethod
